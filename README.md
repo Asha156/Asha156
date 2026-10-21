@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋, I'm Shayma Akter Asamoni
 
-<!--
-**Asha156/Asha156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Biochemistry and Biotechnology graduate currently pursuing my Master's in Bioinformatics and Biotechnology. I am building my foundation in Python,R and bioinformatics while exploring computational approaches to biological research.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* R & RStudio
+* Git & GitHub
+* Bioinformatics Fundamentals
+
+## 🔬 Research Interests
+
+* Bioinformatics
+* Genomics
+* Biological Data Analysis
+
